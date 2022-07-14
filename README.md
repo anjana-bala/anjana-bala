@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anjana</h1>
 <h3 align="center">Senior Software Developer-ETL|AWS|PySpark</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlohW23w5mXy1-8y7kwD4VXJSgT2Aq1G2pNQ&usqp=CAU.gif”> 
+<img align=“right” alt=“Coding” width=“400” src=“https://media3.giphy.com/media/gd09Y2Ptu7gsiPVUrv/giphy.gif?cid=790b7611cb630f0208e6f8227c5d8d642a81147480c5a2e2&rid=giphy.gif&ct=g”> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjana-bala&label=Profile%20views&color=0e75b6&style=flat" alt="anjana-bala" /> </p>
